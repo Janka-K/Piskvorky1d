@@ -35,8 +35,5 @@ def piskvorky_1d():
       hra_bezi = False
       print("Remiza")
 
-#napsat funkci na nahrazeni podminky, aby se podminka v cyklu neopakovala
-
-piskvorky_1d()
 
 
